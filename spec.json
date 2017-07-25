@@ -14,7 +14,7 @@
   "params": {
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x1388",
-    "networkID": "0xC0FFEE"
+    "networkID": "0x90EE90"
   },
   "genesis": {
     "seal": {
@@ -76,7 +76,7 @@
       }
     },
     "0xF982f6ac73a26e243B7D26E0388B104817f75933": {
-      "balance": "10000000000000000000000"
+      "balance": "25000000000000000000000000"
     },
     "0xf472e0e43570b9afaab67089615080cf7c20018d": {
       "balance": "1",
