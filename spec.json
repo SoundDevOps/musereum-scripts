@@ -3,7 +3,6 @@
   "engine": {
     "authorityRound": {
       "params": {
-        "gasLimitBoundDivisor": "0x400",
         "stepDuration": "5",
         "blockReward": "0xDE0B6B3A7640000",
         "validators": {
@@ -13,9 +12,13 @@
     }
   },
   "params": {
+    "gasLimitBoundDivisor": "0x400",    
     "maximumExtraDataSize": "0x20",
     "minGasLimit": "0x1388",
-    "networkID": "0x90EE90"
+    "networkID": "0x90EE90",
+    "contractCreator": "0x5a9bCfDDaBb75a247EF6591E0CFF1c123dd92773",
+    "rewardsCollector": "0x83DAedE1d015e9Fa9DCE1AF31a4652f4545FF7cB",
+    "rewardsPromille": "0x03"
   },
   "genesis": {
     "seal": {
